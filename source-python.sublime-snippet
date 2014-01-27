@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+
+[source, python]
+----
+
+----
+
+]]></content>
+	<tabTrigger>source, python</tabTrigger>
+<!--	<scope>source.asciidoc</scope> -->
+</snippet>
